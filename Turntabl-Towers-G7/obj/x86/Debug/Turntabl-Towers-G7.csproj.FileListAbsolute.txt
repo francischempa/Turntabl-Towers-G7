@@ -1,0 +1,6 @@
+C:\Users\TURNTABL\Documents\TLC_20\labs\c#\Turntabl-Towers-G7\Turntabl-Towers-G7\bin\Debug\Turntabl-Towers-G7.exe
+C:\Users\TURNTABL\Documents\TLC_20\labs\c#\Turntabl-Towers-G7\Turntabl-Towers-G7\bin\Debug\Turntabl-Towers-G7.pdb
+C:\Users\TURNTABL\Documents\TLC_20\labs\c#\Turntabl-Towers-G7\Turntabl-Towers-G7\obj\x86\Debug\Turntabl-Towers-G7.csprojAssemblyReference.cache
+C:\Users\TURNTABL\Documents\TLC_20\labs\c#\Turntabl-Towers-G7\Turntabl-Towers-G7\obj\x86\Debug\Turntabl-Towers-G7.csproj.CoreCompileInputs.cache
+C:\Users\TURNTABL\Documents\TLC_20\labs\c#\Turntabl-Towers-G7\Turntabl-Towers-G7\obj\x86\Debug\Turntabl-Towers-G7.exe
+C:\Users\TURNTABL\Documents\TLC_20\labs\c#\Turntabl-Towers-G7\Turntabl-Towers-G7\obj\x86\Debug\Turntabl-Towers-G7.pdb
